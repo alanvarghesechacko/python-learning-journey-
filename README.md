@@ -1,7 +1,7 @@
 # python-learning-journey-
 My Python practice programs and notes as I learn programming fundamentals. 
 
-# Python Learning Journey 🐍
+# Python Learning Journey 
 
 Welcome to my Python learning repository!
 
